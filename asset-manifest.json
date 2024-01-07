@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/student-manager/static/css/main.f0dd4766.css",
+    "main.js": "/student-manager/static/js/main.dc6ecd59.js",
+    "index.html": "/student-manager/index.html",
+    "main.f0dd4766.css.map": "/student-manager/static/css/main.f0dd4766.css.map",
+    "main.dc6ecd59.js.map": "/student-manager/static/js/main.dc6ecd59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0dd4766.css",
+    "static/js/main.dc6ecd59.js"
+  ]
+}
